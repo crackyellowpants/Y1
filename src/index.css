@@ -12,6 +12,11 @@
   --font-sans: "CustomFont", ui-sans-serif, system-ui, sans-serif;
 }
 
+/* 스크롤바 생성/소멸 시 화면이 밀리는 현상(Layout Shift) 방지 */
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   background-color: #0a0a0a;
   color: #e5e5e5;
