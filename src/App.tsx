@@ -101,12 +101,12 @@ const LONG_TERM_MEMORIES = [
   },
     },
   {
-    title: '',
-    content: '',
+    title: '1',
+    content: '1',
   },
   {
-    title: '',
-    content: '',
+    title: '1',
+    content: '1',
   },
   {
     title: '문파 상세: 곤륜파',
@@ -127,8 +127,8 @@ const LONG_TERM_MEMORIES = [
   },
     },
   {
-    title: '',
-    content: '',
+    title: '1',
+    content: '1',
   },
   {
     title: '설화: 요계 1',
@@ -159,20 +159,20 @@ const LONG_TERM_MEMORIES = [
     content: '육문은 대립하는 세 쌍으로 나눌 수 있다. 천문과 수문, 간문과 귀문, 축문과 옥문이다. 육문이 나열된 순서에 따라서도 대립의 정도에 차이가 생긴다. 천문과 수문 사이에는 간, 축, 귀의 가장 큰 공백이 있어 매우 상극이다. 간문과 귀문 사이에는 축의 가장 작은 공백이 있어 어느정도 어우러진다. 축문과 옥문 사이에는 귀, 수의 중간 정도 공백이 있다. 인간계는 천, 간, 축이 주가 되는 세계이기 때문에 귀, 수, 옥이 희귀하며 어우러지기 어렵다. 특히 수문을 타고난 인간은 극히 드물고, 삶이 순탄치 않을 가능성이 높다.',
   },
     {
-    title: '',
-    content: '',
+    title: '1',
+    content: '1',
   },
     {
-    title: '',
-    content: '',
+    title: '1',
+    content: '1',
   },
     {
-    title: '',
-    content: '',
+    title: '1',
+    content: '1',
   },
     {
-    title: '',
-    content: '',
+    title: '1',
+    content: '1',
   },
 ];
 
